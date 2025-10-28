@@ -3,7 +3,7 @@
 ## Student Information
 - Name: Anisetti Sai Durga
 - Student ID: 23P31A0502
-- Repository: https://github.com/SaiDurga-28/git-solved-23P31A0502.git
+- Repository: https://github.com/SaiDurga-28/git-solved-23P31A0502
 - Date Started: 27-10-2025
 - Date Completed: 27-10-2025
 
